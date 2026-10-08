@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sohailsq"><img src="https://komarev.com/ghpvc/?username=sohailsq&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="views"/></a>
   <a href="https://github.com/sohailsq?tab=followers"><img src="https://img.shields.io/github/followers/sohailsq?style=for-the-badge&logo=github&color=2563EB" alt="followers"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities%20(India%20%2F%20Germany%20%2F%20EU)-22C55E?style=for-the-badge" alt="open to work"/>
 </p>
