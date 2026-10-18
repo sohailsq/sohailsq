@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sohailsq?tab=followers"><img src="https://img.shields.io/github/followers/sohailsq?style=for-the-badge&logo=github&color=2563EB" alt="followers"/></a>
+  <a href="https://x.com/shah121311"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:mohammadsohailshahquadri14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities%20(India%20%2F%20Germany%20%2F%20EU)-22C55E?style=for-the-badge" alt="open to work"/>
 </p>
 
 <p align="center">
   <a href="https://sohail-shah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mssq14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohammadsohailshahquadri14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Software Engineer** from Hyderabad, India, who enjoys turning ideas into production-ready products — from React Native trading apps to MERN platforms with AI/ML under the hood. I care about clean APIs, reliable deployments and shipping things people actually use.
 
@@ -52,7 +52,7 @@ const sohail = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,vite,nodejs,express,fastapi,python,mongodb,mysql&perline=7" alt="languages and frameworks"/>
@@ -65,14 +65,13 @@ const sohail = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🇩🇪 **[NexaDeutsch](https://nexa-deutsch.vercel.app/)** | German A1 (CEFR) exam-prep learning platform | React · Node · Express · MongoDB · Redux Toolkit |
-| 📈 **JetFyx** | Real-time forex trading mobile app | React Native · WebSockets · Node · AWS |
-| 🏥 **SmartSync** | Medical tracking app with AI/LLM integration | React · Node · Express · MongoDB · LLM |
-| 📊 **Prodify** | Productivity platform with ML-driven insights | React · Node · MongoDB · FastAPI · Random Forest |
+| 🇩🇪 **[NexaDeutsch](https://nexa-deutsch.vercel.app/)** | German A1 (CEFR) exam-prep learning platform | ⚛️ React · 🟢 Node.js · 🚂 Express · 🍃 MongoDB · 🔄 Redux Toolkit |
+| 📈 **[JetFyx](https://trade.jetfyx.com/login)** | Real-time forex trading mobile app | 📱 React Native · 🔌 WebSockets · 🟢 Node.js · ☁️ AWS |
+| 🏥 **SmartSync** | Medical tracking app with AI/LLM integration | ⚛️ React · 🟢 Node.js · 🚂 Express · 🍃 MongoDB · 🤖 LLM |
 
 <!--
   Optional: show live pinned repo cards. Replace REPO_NAME with your real repo names, then uncomment.
