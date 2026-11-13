@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/shah121311"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://x.com/msohailsq"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="mailto:mohammadsohailshahquadri14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities%20(India%20%2F%20Germany%20%2F%20EU)-22C55E?style=for-the-badge" alt="open to work"/>
 </p>
